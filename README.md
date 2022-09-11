@@ -10,3 +10,5 @@ it will restore only bootloader on a hard bricked motorla device, you have to Re
 adviced for Retail devices, however you can try on branded too bcz your phone already in dead condition
 
 <b>Disclaimer:</b> don't use on a working device, use at own risk
+
+Credit: Me for Compiling this tool, Motorola Inc for Firmware & loader, 
